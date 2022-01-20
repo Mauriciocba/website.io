@@ -16,7 +16,7 @@ body{
   }
 
 
-/*HEDER*/
+/* IMAGEN DE LA CABECERA HEDER*/
 .contenedor-heder{
     width: 100%;
 	height: 100vh;
@@ -26,17 +26,6 @@ body{
     background-attachment: fixed;
     
 }
-
-/*.contenedor-heder .fondo{
-    width: 0%;
-    height: 100%;
-    max-width: 100%;
-    /*background-image: url(../img/);
-    background-size: cover;
-    background-position: center;
-     
-}*/
-
 
 /*TEXTO DE LA CABECERA*/
 .contenedor-heder .texto {
@@ -293,4 +282,3 @@ hr{
     margin-bottom: 50px;
 
 }
-
